@@ -9,3 +9,5 @@ L
 contracts/idea-exchange.clar,3/d/3dea3f20cdbe3cbd42306bbbee3ea512c2a0234e
 K
 tests/idea-exchange.test.ts,e/b/eb98ea587c277b86b55ce28da4875c85168f675d
+J
+contracts/quantum-rng.clar,7/1/710699849a2ac542813668e4b42d0573cf83b7bf
