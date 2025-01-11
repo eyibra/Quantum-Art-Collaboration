@@ -7,3 +7,5 @@ T
 $tests/collaboration-projects.test.ts,e/8/e82724466ffbb53feeb675055024be687998ea44
 L
 contracts/idea-exchange.clar,3/d/3dea3f20cdbe3cbd42306bbbee3ea512c2a0234e
+K
+tests/idea-exchange.test.ts,e/b/eb98ea587c277b86b55ce28da4875c85168f675d
